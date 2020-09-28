@@ -6,6 +6,10 @@ a {
     font-family: rhk3nje !important;
     font-size: 120px !important;
   }
+
+  body {
+    background: url(./background.png)
+  }
   
   #category {
     font-family: rhk3nje !important;
